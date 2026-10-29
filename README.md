@@ -15,8 +15,8 @@ O **Mural Digital** é um sistema web desenvolvido para modernizar a comunicaç�
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório e entre na pasta:
-   git clone https://github.com/SEU-USUARIO/conectadoa.git
-   cd conectadoa
+   git clone https://github.com/Neilacarrara-ADS/MuralDigital
+   cd MuralDigital
 2. Instale as dependências: vp install
 3. Copie .env.example para .env
 4. Terminal 1, inicie a API: vp run api
